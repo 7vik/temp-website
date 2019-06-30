@@ -12,7 +12,7 @@
 
 5. [Distil.pub](https://distill.pub/)
 
-6. [DL Book Goodfellow(https://www.deeplearningbook.org/)
+6. [DL Book Goodfellow](https://www.deeplearningbook.org/)
 
 7. [Adam](https://arxiv.org/pdf/1412.6980.pdf)
 
@@ -32,9 +32,12 @@
 
 15. [Google AI Blog - for free time](https://ai.googleblog.com/)
 
-16. [Artificial General Intelligence](https://agi.mit.edu/)
+16. [Artificial General Intelligence - for free time](https://agi.mit.edu/)
 
 17. [2 minute papers - for free time](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2)
+
+18. [ICDAR 2019 Robust Reading](https://rrc.cvc.uab.es/?ch=11&com=tasks)
+
 
 
 ### Markdown
