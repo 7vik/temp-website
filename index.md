@@ -28,7 +28,13 @@
 
 13. [CS224n for heavy NLP](http://web.stanford.edu/class/cs224n/)
 
-14. [2 minute papers - for free time](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2)
+14. [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning-2)
+
+15. [Google AI Blog - for free time](https://ai.googleblog.com/)
+
+16. [Artificial General Intelligence](https://agi.mit.edu/)
+
+17. [2 minute papers - for free time](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2)
 
 
 ### Markdown
