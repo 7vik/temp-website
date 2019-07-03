@@ -48,3 +48,6 @@
 
 21. [GANs Medium](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
 
+22. [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+
+
