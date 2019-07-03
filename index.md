@@ -41,3 +41,10 @@
 17. [2 minute papers - for free time](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2)
 
 18. [ICDAR 2019 Robust Reading](https://rrc.cvc.uab.es/?ch=11&com=tasks)
+
+19. [Adversarial Networks Tut](https://adversarial-ml-tutorial.org/)
+
+20. [Pytorch Tutorial](https://pytorch.org/tutorials/)
+
+21. [GANs Medium](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
+
