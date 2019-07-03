@@ -1,3 +1,11 @@
+###AI Reading List
+
+1. [AI Transformation Playbook - Ng](https://landing.ai/ai-transformation-playbook/)
+
+
+
+### To-Do
+
 1. [Visual Proof](http://neuralnetworksanddeeplearning.com/chap4.html)
 
 2. [Bengio Interview](https://dr-darryl-wright.github.io/reading/list/2019/03/21/yoshua-bengio-interview-reading-list.html)
