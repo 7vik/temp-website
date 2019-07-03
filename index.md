@@ -1,4 +1,4 @@
-###AI Reading List
+### AI Reading List
 
 1. [AI Transformation Playbook - Ng](https://landing.ai/ai-transformation-playbook/)
 
