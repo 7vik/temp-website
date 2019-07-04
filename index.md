@@ -50,4 +50,5 @@
 
 22. [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 
+23. {Medium on Udacity](https://towardsdatascience.com/my-experience-with-udacity-deep-learning-foundations-nanodegree-a42a010f7b58)
 
