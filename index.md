@@ -50,5 +50,14 @@
 
 22. [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 
-23. {Medium on Udacity](https://towardsdatascience.com/my-experience-with-udacity-deep-learning-foundations-nanodegree-a42a010f7b58)
+23. [Medium on Udacity](https://towardsdatascience.com/my-experience-with-udacity-deep-learning-foundations-nanodegree-a42a010f7b58)
+
+24. [Intro to RL Book](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+
+25. [Hands on Deep RL](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks/dp/1788834240)
+
+26. [Udacity Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+
+27. [Deep Mind RL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
 
