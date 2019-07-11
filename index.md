@@ -60,4 +60,8 @@
 
 27. [Deep Mind RL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
+## Next
 
+28. Udacity PyTorch Course
+
+29. AI Stack Exchange
