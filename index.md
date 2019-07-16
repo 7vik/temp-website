@@ -60,6 +60,10 @@
 
 27. [Deep Mind RL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
+28. [Deep Reinforcement Learning Tut](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
+
+29. [Deep RL, Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
+
 ## Next
 
 28. Udacity PyTorch Course
