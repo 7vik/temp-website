@@ -64,6 +64,8 @@
 
 29. [Deep RL, Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
+30. [CMU DL Course](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists)
+
 ## Next
 
 28. Udacity PyTorch Course
