@@ -65,6 +65,8 @@
 
 30. [CMU DL Course](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists)
 
+31. [Karpathy's Blog](http://karpathy.github.io/)
+
 
 ## Next
 
