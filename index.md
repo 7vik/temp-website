@@ -1,10 +1,9 @@
 ### AI Reading List
 
-1. [AI Transformation Playbook - Ng](https://landing.ai/ai-transformation-playbook/)
+1. [AI Transformation Playbook - Ng](https://landing.ai/ai-transformation-playbook/) - A nice mini-book on how to help your company make the best of the AI Boom through active AI Transformation. 
 
 
-
-### To-Do
+### Good Resources
 
 1. [Visual Proof](http://neuralnetworksanddeeplearning.com/chap4.html)
 
@@ -65,6 +64,7 @@
 29. [Deep RL, Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 30. [CMU DL Course](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists)
+
 
 ## Next
 
