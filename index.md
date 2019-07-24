@@ -1,7 +1,10 @@
 ### AI Reading List
 
-1. [AI Transformation Playbook - Ng](https://landing.ai/ai-transformation-playbook/) - A nice mini-book on how to help your company make the best of the AI Boom through active AI Transformation. 
+1. [AI Transformation Playbook - Ng](https://landing.ai/ai-transformation-playbook/) - A mini-book on how to help your company make the best of the AI Boom through active AI Transformation. 
 
+2. [Adversarial Attacks](https://adversarial-ml-tutorial.org/) - An awesome hands-on tutorial to understand Adversarial attacks on state-of-the-art deep nets, and current progress in adversarial robustness. The code can be found [here](https://github.com/7vik/deep_adversarial_robustness).
+
+3. [Coursera DL Specialization](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton) - One of the best introductory DL courses, by Andrew Ng. Not making the code public because this is a certified course.
 
 ### Good Resources
 
@@ -40,8 +43,6 @@
 17. [2 minute papers - for free time](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2)
 
 18. [ICDAR 2019 Robust Reading](https://rrc.cvc.uab.es/?ch=11&com=tasks)
-
-19. [Adversarial Networks Tut](https://adversarial-ml-tutorial.org/)
 
 20. [Pytorch Tutorial](https://pytorch.org/tutorials/)
 
