@@ -6,6 +6,8 @@
 
 3. [Coursera DL Specialization](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton) - One of the best introductory DL courses, by Andrew Ng. Not making the code public because this is a certified course.
 
+4. [This](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) and [this](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) are two really good blog posts to understand the basics and applications of RNNs/LSTMs. While they are mostly theoretical in nature, [here](www.com) is a simple implementation in PyTorch.
+
 ### Good Resources
 
 1. [Visual Proof](http://neuralnetworksanddeeplearning.com/chap4.html)
