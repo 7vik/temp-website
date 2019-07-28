@@ -78,3 +78,11 @@
 28. Udacity PyTorch Course
 
 29. AI Stack Exchange
+
+30. [MIT Deep Generative Models](https://www.youtube.com/watch?v=JVb54xhEw6Y)
+
+31. [Stanford Deep Generative Models](https://github.com/SKKSaikia/CS236_DGM)
+
+32. [Stanford DGM Official](https://deepgenerativemodels.github.io/)
+
+33. [Variational AUE](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
