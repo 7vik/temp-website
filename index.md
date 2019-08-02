@@ -10,9 +10,11 @@
 
 5. A [visual proof](http://neuralnetworksanddeeplearning.com/chap4.html) that neural networks can model any given function. Not that impressive, and just theoretical, but is semantically significant.
 
+6. [EAST](https://gist.github.com/7vik/a2469b47ccff5d816dd0f1758f70ca71) and CRNN(https://gist.github.com/7vik/2b359026d910ab3ae92dbc4497e744a3) are two gist summarizations of research papers on textbox detection and text recognition. 
 
 
-### Good Resources
+
+### Further Readings
 
 2. [Bengio Interview](https://dr-darryl-wright.github.io/reading/list/2019/03/21/yoshua-bengio-interview-reading-list.html)
 
@@ -71,9 +73,6 @@
 30. [CMU DL Course](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists)
 
 31. [Karpathy's Blog](http://karpathy.github.io/)
-
-
-## Next
 
 28. Udacity PyTorch Course
 
