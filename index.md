@@ -10,7 +10,7 @@
 
 5. A [visual proof](http://neuralnetworksanddeeplearning.com/chap4.html) that neural networks can model any given function. Not that impressive, and just theoretical, but is semantically significant.
 
-6. [EAST](https://gist.github.com/7vik/a2469b47ccff5d816dd0f1758f70ca71) and CRNN(https://gist.github.com/7vik/2b359026d910ab3ae92dbc4497e744a3) are two gist summarizations of research papers on textbox detection and text recognition. 
+6. [EAST](https://gist.github.com/7vik/a2469b47ccff5d816dd0f1758f70ca71) and [CRNN](https://gist.github.com/7vik/2b359026d910ab3ae92dbc4497e744a3) are two gist summarizations of research papers on textbox detection and text recognition. 
 
 7. [Autoencoders](http://www.deeplearningbook.org/contents/autoencoders.html) provides the theoretical basics of an autoencoder and it's applications as well as history. I felt it lacks intuition, though.
 
