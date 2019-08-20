@@ -14,6 +14,8 @@
 
 7. [Autoencoders](http://www.deeplearningbook.org/contents/autoencoders.html) provides the theoretical basics of an autoencoder and it's applications as well as history. I felt it lacks intuition, though.
 
+8. [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) and [DCGAN](https://arxiv.org/abs/1511.06434) helped me understand the basics of creating a GAN as well as various training challenges. PyTorch [tutorials](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html) provided me a great starting point to recreate the DCGAN from the paper.
+
 ### Further Readings
 
 2. [Bengio Interview](https://dr-darryl-wright.github.io/reading/list/2019/03/21/yoshua-bengio-interview-reading-list.html)
@@ -50,8 +52,6 @@
 
 18. [ICDAR 2019 Robust Reading](https://rrc.cvc.uab.es/?ch=11&com=tasks)
 
-20. [Pytorch Tutorial](https://pytorch.org/tutorials/)
-
 21. [GANs Medium](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
 
 22. [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
@@ -62,8 +62,6 @@
 
 25. [Hands on Deep RL](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks/dp/1788834240)
 
-26. [Udacity Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
-
 27. [Deep Mind RL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
 28. [Deep Reinforcement Learning Tut](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
@@ -73,8 +71,6 @@
 30. [CMU DL Course](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists)
 
 31. [Karpathy's Blog](http://karpathy.github.io/)
-
-28. Udacity PyTorch Course
 
 29. AI Stack Exchange
 
