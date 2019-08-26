@@ -1,6 +1,6 @@
 ### AI Reading List
 
-* [26 Aug]: Read sections 5.1,5.2 from Sutton's Reinforcement Learning. Watched lectures 8,9 of CS-231n. 
+* `[26 Aug]`: Read sections 5.1,5.2 from Sutton's Reinforcement Learning. Watched lectures 8,9 of CS-231n. 
 
 * [25 August, 2019]: Read the [InfoGAN](https://arxiv.org/pdf/1606.03657.pdf) paper, and implemented it. Watched lectures 5,6,7 of CS-231n.   
 
