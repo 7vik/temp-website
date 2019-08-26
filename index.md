@@ -1,5 +1,9 @@
 ### AI Reading List
 
+* [26 Aug]: Read sections 5.1,5.2 from Sutton's Reinforcement Learning. Watched lectures 8,9 of CS-231n. 
+
+* [25 August, 2019]: Read the [InfoGAN](https://arxiv.org/pdf/1606.03657.pdf) paper, and implemented it. Watched lectures 5,6,7 of CS-231n.   
+
 1. [AI Transformation Playbook - Ng](https://landing.ai/ai-transformation-playbook/) - A mini-book on how to help your company make the best of the AI Boom through active AI Transformation. 
 
 2. [Adversarial Attacks](https://adversarial-ml-tutorial.org/) - An awesome hands-on tutorial to understand Adversarial attacks on state-of-the-art deep nets, and current progress in adversarial robustness. The code can be found [here](https://github.com/7vik/deep_adversarial_robustness).
