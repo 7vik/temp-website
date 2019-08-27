@@ -1,5 +1,7 @@
 ### AI Reading List
 
+* `27 Aug`: Sutton RL, Section 5.3. Lectures 10,11 of CS-231n. Chapters 1,2 of [AIMA](http://aima.cs.berkeley.edu/). Implemented BFS for n-queens puzzle in raw Python. Code [here](https://github.com/7vik/Artificial-Intelligence/blob/master/Homework-1/8_queens_bfs.py). 
+
 * `[26 Aug]`: Read sections 5.1,5.2 from Sutton's Reinforcement Learning. Watched lectures 8,9 of CS-231n. 
 
 * [25 August, 2019]: Read the [InfoGAN](https://arxiv.org/pdf/1606.03657.pdf) paper, and implemented it. Watched lectures 5,6,7 of CS-231n.   
@@ -41,8 +43,6 @@
 10. [Course 2 Fast.AI](http://course18.fast.ai/lessons/lessons2.html)
 
 11. [Reinforcement Learning](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
-
-12. [CS231n for heavy CNN](http://cs231n.github.io/convolutional-networks/)
 
 13. [CS224n for heavy NLP](http://web.stanford.edu/class/cs224n/)
 
