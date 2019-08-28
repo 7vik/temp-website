@@ -1,6 +1,8 @@
 ### AI Reading List
 
-* `27 Aug`: Sutton RL, Section 5.3. Lectures 10,11 of CS-231n. Chapters 1,2 of [AIMA](http://aima.cs.berkeley.edu/). Implemented BFS for n-queens puzzle in raw Python. Code [here](https://github.com/7vik/Artificial-Intelligence/blob/master/Homework-1/8_queens_bfs.py). 
+* `28 Aug`: Lecture 11, CS-231n. Read Jay Alammar's blog on [attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/). Read the AI [Assignment-1](enter-link-later).
+
+* `27 Aug`: Played around with InfoGAN, keeping 5 discrete values, etc. Lecture 10 of CS-231n. Chapters 1,2 of [AIMA](http://aima.cs.berkeley.edu/). Implemented BFS for n-queens puzzle in raw Python. Code [here](https://github.com/7vik/Artificial-Intelligence/blob/master/Homework-1/8_queens_bfs.py). 
 
 * `[26 Aug]`: Read sections 5.1,5.2 from Sutton's Reinforcement Learning. Watched lectures 8,9 of CS-231n. 
 
